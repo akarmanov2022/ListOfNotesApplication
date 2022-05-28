@@ -1,0 +1,15 @@
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\bin\Debug\ListOfNotesApplication.exe.config
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\bin\Debug\ListOfNotesApplication.exe
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\bin\Debug\ListOfNotesApplication.pdb
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\obj\Debug\ListOfNotesApplication.csproj.AssemblyReference.cache
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\obj\Debug\ListOfNotesApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\obj\Debug\ListOfNotesApplication.Properties.Resources.resources
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\obj\Debug\ListOfNotesApplication.Resources.resources
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\obj\Debug\ListOfNotesApplication.View.MainForm.resources
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\obj\Debug\ListOfNotesApplication.csproj.GenerateResource.cache
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\obj\Debug\ListOfNotesApplication.csproj.CoreCompileInputs.cache
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\obj\Debug\ListOfNotesApplication.csproj.CopyComplete
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\obj\Debug\ListOfNotesApplication.exe
+C:\Users\arsen\projects\ListOfNotesApplication\ListOfNotesApplication\obj\Debug\ListOfNotesApplication.pdb
